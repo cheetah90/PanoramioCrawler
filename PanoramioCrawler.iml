@@ -1,17 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output />
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="commons-io-2" level="project" />
     <orderEntry type="library" name="com.fasterxml.jackson.core:com.springsource.com.fasterxml.jackson.core.jackson-databind:2.0.2" level="project" />
     <orderEntry type="library" name="com.fasterxml.jackson.core:com.springsource.com.fasterxml.jackson.core.jackson-core:2.0.2" level="project" />
     <orderEntry type="library" name="org.apache.commons:commons-csv:1.0" level="project" />
     <orderEntry type="library" name="postgresql-9.3-1102.jdbc41" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-shapefile:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-data:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-main:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-api:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: com.vividsolutions:jts:1.13" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-referencing:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: java3d:vecmath:1.3.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.5.4" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-metadata:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-opengis:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev.jsr-275:jsr-275:1.0-beta-2" level="project" />
+    <orderEntry type="library" name="Maven: javax.media:jai_core:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: jgridshift:jgridshift:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jdom:jdom:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-swing:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-render:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-coverage:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: javax.media:jai_imageio:1.1" level="project" />
+    <orderEntry type="library" name="Maven: it.geosolutions.imageio-ext:imageio-ext-tiff:1.1.10" level="project" />
+    <orderEntry type="library" name="Maven: it.geosolutions.imageio-ext:imageio-ext-utilities:1.1.10" level="project" />
+    <orderEntry type="library" name="Maven: javax.media:jai_codec:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jaitools:jt-zonalstats:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jaitools:jt-utils:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-cql:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: com.miglayout:miglayout:swing:3.7" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools.jdbc:gt-jdbc-postgis:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: postgresql:postgresql:8.4-701.jdbc3" level="project" />
+    <orderEntry type="library" name="Maven: org.geotools:gt-jdbc:12-RC1" level="project" />
+    <orderEntry type="library" name="Maven: commons-dbcp:commons-dbcp:1.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.1" level="project" />
   </component>
 </module>
 

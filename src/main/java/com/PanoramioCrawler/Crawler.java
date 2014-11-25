@@ -66,8 +66,6 @@ public class Crawler {
             preparedStatement.setString(11, photoObject.getOwner_url());
             preparedStatement.setInt(12, photoObject.getOwner_id());
             preparedStatement.setString(13,photoObject.getPlace_id());
-            //preparedStatement.setDouble(14,photoObject.getLongitude());
-            //preparedStatement.setDouble(15,photoObject.getLatitude());
 
             preparedStatement.executeUpdate();
 
